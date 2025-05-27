@@ -1,6 +1,6 @@
 <h2 align="center">Olá, eu sou o Marco!👋</h2>
 
-<h3 align="center">🎓 Estudante dedicado ao Curso Técnico em Infortmática - SATC</h3>
+<h3 align="center">🎓 Estudante dedicado ao Curso Técnico em Informática - SATC</h3>
 
 <div align="center">
   <a href="https://github.com/marcoantoniogava">
