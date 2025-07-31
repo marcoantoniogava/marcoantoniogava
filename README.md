@@ -10,7 +10,9 @@
 
 <div align="center">
   <h3>🛠️ Áreas de Conhecimento</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,go,postman,react,nodejs,firebase,mysql,cs,cpp" alt="Linguagens e Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,react,nodejs,firebase,mysql" alt="Linguagens e Ferramentas"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=go,postman,figma,git,github,cs,cpp,arduino,unity" alt="Linguagens e Ferramentas"/>
 </div>
 
 <div align="center">
